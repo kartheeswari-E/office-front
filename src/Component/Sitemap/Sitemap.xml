@@ -1,0 +1,2522 @@
+<!-- <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://localhost:3000</loc>
+    <lastmod>2018-08-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+</urlset> -->
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://ijresonline.com/</loc>
+  <lastmod>2023-05-30T10:03:51+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/articles</loc>
+  <lastmod>2023-05-30T10:14:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/volume-10/issue-2</loc>
+  <lastmod>2023-05-30T10:14:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives</loc>
+  <lastmod>2023-05-30T10:14:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/for-authors</loc>
+  <lastmod>2023-05-30T10:14:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/for-authors/author-guidelines</loc>
+  <lastmod>2023-05-30T10:14:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/for-authors/policies</loc>
+  <lastmod>2023-05-30T10:14:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/for-authors/downloads</loc>
+  <lastmod>2023-05-30T10:14:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/for-editors</loc>
+  <lastmod>2023-05-30T10:14:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/for-reviewer</loc>
+  <lastmod>2023-05-30T10:14:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/call-for-paper</loc>
+  <lastmod>2023-05-30T10:14:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/ssrg-journals</loc>
+  <lastmod>2023-05-30T10:14:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/aim-and-scope</loc>
+  <lastmod>2023-05-30T10:14:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/indexing</loc>
+  <lastmod>2023-05-30T10:14:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/submission</loc>
+  <lastmod>2023-05-30T10:14:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/for-authors/charges</loc>
+  <lastmod>2023-05-30T10:14:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/for-authors/openaccess-author</loc>
+  <lastmod>2023-05-30T10:14:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/publication-ethics</loc>
+  <lastmod>2023-05-30T10:14:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/for-authors/copyrightinfringement</loc>
+  <lastmod>2023-05-30T10:14:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/faq</loc>
+  <lastmod>2023-05-30T10:14:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/contact-us</loc>
+  <lastmod>2023-05-30T10:14:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/current-issue</loc>
+  <lastmod>2023-05-30T10:14:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v10i3p101</loc>
+  <lastmod>2023-05-30T10:14:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/2023/volume-10/issue-2</loc>
+  <lastmod>2023-05-30T10:14:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/2022/volume-9/issue-6</loc>
+  <lastmod>2023-05-30T10:14:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/2022/volume-9/issue-5</loc>
+  <lastmod>2023-05-30T10:14:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/2022/volume-9/issue-4</loc>
+  <lastmod>2023-05-30T10:14:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/2022/volume-9/issue-3</loc>
+  <lastmod>2023-05-30T10:14:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/2022/volume-9/issue-2</loc>
+  <lastmod>2023-05-30T10:14:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/2022/volume-9/issue-1</loc>
+  <lastmod>2023-05-30T10:14:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/2021/volume-8/issue-6</loc>
+  <lastmod>2023-05-30T10:14:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/2021/volume-8/issue-5</loc>
+  <lastmod>2023-05-30T10:14:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/2021/volume-8/issue-4</loc>
+  <lastmod>2023-05-30T10:14:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/2021/volume-8/issue-1</loc>
+  <lastmod>2023-05-30T10:14:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/2021/volume-8/issue-2</loc>
+  <lastmod>2023-05-30T10:14:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/2021/volume-8/issue-3</loc>
+  <lastmod>2023-05-30T10:14:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/2020/volume-7/issue-6</loc>
+  <lastmod>2023-05-30T10:14:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/2020/volume-7/issue-5</loc>
+  <lastmod>2023-05-30T10:14:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/2020/volume-7/issue-4</loc>
+  <lastmod>2023-05-30T10:14:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/2020/volume-7/issue-1</loc>
+  <lastmod>2023-05-30T10:14:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/2020/volume-7/issue-2</loc>
+  <lastmod>2023-05-30T10:14:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/2020/volume-7/issue-3</loc>
+  <lastmod>2023-05-30T10:14:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/2019/volume-6/issue-6</loc>
+  <lastmod>2023-05-30T10:14:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/2019/volume-6/issue-5</loc>
+  <lastmod>2023-05-30T10:14:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/2019/volume-6/issue-4</loc>
+  <lastmod>2023-05-30T10:14:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/2019/volume-6/issue-1</loc>
+  <lastmod>2023-05-30T10:14:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/2019/volume-6/issue-2</loc>
+  <lastmod>2023-05-30T10:14:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/2019/volume-6/issue-3</loc>
+  <lastmod>2023-05-30T10:14:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/2018/volume-5/issue-6</loc>
+  <lastmod>2023-05-30T10:14:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/2018/volume-5/issue-5</loc>
+  <lastmod>2023-05-30T10:14:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/2018/volume-5/issue-4</loc>
+  <lastmod>2023-05-30T10:14:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/2018/volume-5/issue-1</loc>
+  <lastmod>2023-05-30T10:14:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/2018/volume-5/issue-2</loc>
+  <lastmod>2023-05-30T10:14:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/2018/volume-5/issue-3</loc>
+  <lastmod>2023-05-30T10:14:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/2017/volume-4/issue-6</loc>
+  <lastmod>2023-05-30T10:14:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/2017/volume-4/issue-5</loc>
+  <lastmod>2023-05-30T10:14:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/2017/volume-4/issue-4</loc>
+  <lastmod>2023-05-30T10:14:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/2017/volume-4/issue-1</loc>
+  <lastmod>2023-05-30T10:14:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/2017/volume-4/issue-2</loc>
+  <lastmod>2023-05-30T10:14:56+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/2017/volume-4/issue-3</loc>
+  <lastmod>2023-05-30T10:14:56+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/2016/volume-3/issue-6</loc>
+  <lastmod>2023-05-30T10:14:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/2016/volume-3/issue-5</loc>
+  <lastmod>2023-05-30T10:14:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/2016/volume-3/issue-4</loc>
+  <lastmod>2023-05-30T10:14:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/volume3-issue-1</loc>
+  <lastmod>2023-05-30T10:14:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/2016/volume-3/issue-2</loc>
+  <lastmod>2023-05-30T10:15:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/2016/volume-3/issue-3</loc>
+  <lastmod>2023-05-30T10:15:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/2015/volume-2/issue-6</loc>
+  <lastmod>2023-05-30T10:15:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/2015/volume-2/issue-5</loc>
+  <lastmod>2023-05-30T10:15:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/2015/volume-2/issue-4</loc>
+  <lastmod>2023-05-30T10:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/2015/volume-2/issue-1</loc>
+  <lastmod>2023-05-30T10:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/2015/volume-2/issue-2</loc>
+  <lastmod>2023-05-30T10:15:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/2015/volume-2/issue-3</loc>
+  <lastmod>2023-05-30T10:15:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/2014/volume-1/issue-6</loc>
+  <lastmod>2023-05-30T10:15:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/2014/volume-1/issue-5</loc>
+  <lastmod>2023-05-30T10:15:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/2014/volume-1/issue-4</loc>
+  <lastmod>2023-05-30T10:15:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/2014/volume-1/issue-1</loc>
+  <lastmod>2023-05-30T10:15:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/2014/volume-1/issue-2</loc>
+  <lastmod>2023-05-30T10:15:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/2014/volume-1/issue-3</loc>
+  <lastmod>2023-05-30T10:15:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/topics</loc>
+  <lastmod>2023-05-30T10:15:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/for-authors/reviewprocess</loc>
+  <lastmod>2023-05-30T10:15:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/for-editors/review-policy</loc>
+  <lastmod>2023-05-30T10:15:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/for-authors/conflicts-of-interest</loc>
+  <lastmod>2023-05-30T10:15:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/for-authors/correction-policy</loc>
+  <lastmod>2023-05-30T10:15:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/for-authors/license-policy</loc>
+  <lastmod>2023-05-30T10:15:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/images/IJRES-Paper%20Format.doc</loc>
+  <lastmod>2023-03-13T13:23:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/images/IJRES-Copy%20Right%20Form.doc</loc>
+  <lastmod>2021-10-03T04:41:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/for-editors/editors-special-issues</loc>
+  <lastmod>2023-05-30T10:15:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/join-as-editor</loc>
+  <lastmod>2023-05-30T10:15:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/editorial-board</loc>
+  <lastmod>2023-05-30T10:15:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/for-editors/editorial-workflow</loc>
+  <lastmod>2023-05-30T10:15:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/for-reviewer/review-revised</loc>
+  <lastmod>2023-05-30T10:15:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/for-reviewer/step-by-step-reviewer</loc>
+  <lastmod>2023-05-30T10:15:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/for-reviewer/reviewing-clinical</loc>
+  <lastmod>2023-05-30T10:15:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/for-reviewer/work-editor</loc>
+  <lastmod>2023-05-30T10:15:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/content/ijres/topics</loc>
+  <lastmod>2023-05-30T10:15:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/faq?view=section&amp;tab=topics&amp;id=1</loc>
+  <lastmod>2023-05-30T10:15:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/faq?view=topic&amp;id=2</loc>
+  <lastmod>2023-05-30T10:15:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-10/Issue-3/IJRES-V10I3P101.pdf</loc>
+  <lastmod>2023-05-27T07:30:27+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v10i2p101</loc>
+  <lastmod>2023-05-30T10:15:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v10i2p102</loc>
+  <lastmod>2023-05-30T10:15:25+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v10i2p103</loc>
+  <lastmod>2023-05-30T10:15:25+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v10i2p104</loc>
+  <lastmod>2023-05-30T10:15:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v10i2p105</loc>
+  <lastmod>2023-05-30T10:15:27+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v10i2p106</loc>
+  <lastmod>2023-05-30T10:15:28+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v10i2p107</loc>
+  <lastmod>2023-05-30T10:15:28+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v10i2p108</loc>
+  <lastmod>2023-05-30T10:15:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v9i6p101</loc>
+  <lastmod>2023-05-30T10:15:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v9i6p102</loc>
+  <lastmod>2023-05-30T10:15:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v9i6p103</loc>
+  <lastmod>2023-05-30T10:15:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v9i5p101</loc>
+  <lastmod>2023-05-30T10:15:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v9i4p101</loc>
+  <lastmod>2023-05-30T10:15:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v9i4p102</loc>
+  <lastmod>2023-05-30T10:15:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v9i3p101</loc>
+  <lastmod>2023-05-30T10:15:35+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v9i3p102</loc>
+  <lastmod>2023-05-30T10:15:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v9i2p101</loc>
+  <lastmod>2023-05-30T10:15:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v9i2p102</loc>
+  <lastmod>2023-05-30T10:15:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v9i1p101</loc>
+  <lastmod>2023-05-30T10:15:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v9i1p102</loc>
+  <lastmod>2023-05-30T10:15:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v9i1p103</loc>
+  <lastmod>2023-05-30T10:15:39+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v9i1p104</loc>
+  <lastmod>2023-05-30T10:15:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v9i1p105</loc>
+  <lastmod>2023-05-30T10:15:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v9i1p106</loc>
+  <lastmod>2023-05-30T10:15:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v8i6p101</loc>
+  <lastmod>2023-05-30T10:15:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v8i5p101</loc>
+  <lastmod>2023-05-30T10:15:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v8i5p102</loc>
+  <lastmod>2023-05-30T10:15:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v8i5p103</loc>
+  <lastmod>2023-05-30T10:15:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v8i5p104</loc>
+  <lastmod>2023-05-30T10:15:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v8i5p105</loc>
+  <lastmod>2023-05-30T10:15:46+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v8i4p101</loc>
+  <lastmod>2023-05-30T10:15:46+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v8i4p102</loc>
+  <lastmod>2023-05-30T10:15:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v8i4p103</loc>
+  <lastmod>2023-05-30T10:15:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v8i4p104</loc>
+  <lastmod>2023-05-30T10:15:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v8i1p101</loc>
+  <lastmod>2023-05-30T10:15:49+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v8i1p102</loc>
+  <lastmod>2023-05-30T10:15:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v8i1p103</loc>
+  <lastmod>2023-05-30T10:15:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v8i2p101</loc>
+  <lastmod>2023-05-30T10:15:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v8i2p102</loc>
+  <lastmod>2023-05-30T10:15:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v8i2p103</loc>
+  <lastmod>2023-05-30T10:15:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v8i2p104</loc>
+  <lastmod>2023-05-30T10:15:53+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v8i3p101</loc>
+  <lastmod>2023-05-30T10:15:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v8i3p102</loc>
+  <lastmod>2023-05-30T10:15:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v8i3p103</loc>
+  <lastmod>2023-05-30T10:15:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v8i3p104</loc>
+  <lastmod>2023-05-30T10:15:56+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v8i3p105</loc>
+  <lastmod>2023-05-30T10:15:56+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v8i3p106</loc>
+  <lastmod>2023-05-30T10:15:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v7i6p101</loc>
+  <lastmod>2023-05-30T10:15:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v7i6p102</loc>
+  <lastmod>2023-05-30T10:15:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v7i6p103</loc>
+  <lastmod>2023-05-30T10:15:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v7i6p104</loc>
+  <lastmod>2023-05-30T10:16:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v7i6p105</loc>
+  <lastmod>2023-05-30T10:16:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v7i5p101</loc>
+  <lastmod>2023-05-30T10:16:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v7i5p102</loc>
+  <lastmod>2023-05-30T10:16:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v7i5p103</loc>
+  <lastmod>2023-05-30T10:16:03+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v7i5p104</loc>
+  <lastmod>2023-05-30T10:16:03+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v7i5p105</loc>
+  <lastmod>2023-05-30T10:16:04+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v7i5p106</loc>
+  <lastmod>2023-05-30T10:16:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v7i4p101</loc>
+  <lastmod>2023-05-30T10:16:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v7i4p102</loc>
+  <lastmod>2023-05-30T10:16:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v7i4p103</loc>
+  <lastmod>2023-05-30T10:16:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v7i4p104</loc>
+  <lastmod>2023-05-30T10:16:08+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v7i1p101</loc>
+  <lastmod>2023-05-30T10:16:08+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v7i1p102</loc>
+  <lastmod>2023-05-30T10:16:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v7i1p103</loc>
+  <lastmod>2023-05-30T10:16:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v7i1p104</loc>
+  <lastmod>2023-05-30T10:16:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v7i2p101</loc>
+  <lastmod>2023-05-30T10:16:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v7i2p102</loc>
+  <lastmod>2023-05-30T10:16:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v7i2p103</loc>
+  <lastmod>2023-05-30T10:16:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v7i2p104</loc>
+  <lastmod>2023-05-30T10:16:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v7i2p105</loc>
+  <lastmod>2023-05-30T10:16:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v7i2p106</loc>
+  <lastmod>2023-05-30T10:16:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v7i2p107</loc>
+  <lastmod>2023-05-30T10:16:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v7i2p108</loc>
+  <lastmod>2023-05-30T10:16:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v7i2p109</loc>
+  <lastmod>2023-05-30T10:16:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v7i3p101</loc>
+  <lastmod>2023-05-30T10:16:18+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v7i3p102</loc>
+  <lastmod>2023-05-30T10:16:18+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v7i3p103</loc>
+  <lastmod>2023-05-30T10:16:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v7i3p104</loc>
+  <lastmod>2023-05-30T10:16:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v7i3p105</loc>
+  <lastmod>2023-05-30T10:16:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v7i3p106</loc>
+  <lastmod>2023-05-30T10:16:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v7i3p107</loc>
+  <lastmod>2023-05-30T10:16:22+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v7i3p108</loc>
+  <lastmod>2023-05-30T10:16:22+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v7i3p109</loc>
+  <lastmod>2023-05-30T10:16:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v7i3p110</loc>
+  <lastmod>2023-05-30T10:16:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v7i3p111</loc>
+  <lastmod>2023-05-30T10:16:25+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v7i3p112</loc>
+  <lastmod>2023-05-30T10:16:25+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v7i3p113</loc>
+  <lastmod>2023-05-30T10:16:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v7i3p114</loc>
+  <lastmod>2023-05-30T10:16:27+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v7i3p115</loc>
+  <lastmod>2023-05-30T10:16:27+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v6i6p101</loc>
+  <lastmod>2023-05-30T10:16:28+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v6i6p102</loc>
+  <lastmod>2023-05-30T10:16:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v6i6p103</loc>
+  <lastmod>2023-05-30T10:16:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v6i6p104</loc>
+  <lastmod>2023-05-30T10:16:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v6i5p101</loc>
+  <lastmod>2023-05-30T10:16:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v6i5p102</loc>
+  <lastmod>2023-05-30T10:16:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v6i5p103</loc>
+  <lastmod>2023-05-30T10:16:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v6i5p104</loc>
+  <lastmod>2023-05-30T10:16:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v6i4p101</loc>
+  <lastmod>2023-05-30T10:16:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v6i4p102</loc>
+  <lastmod>2023-05-30T10:16:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v6i4p103</loc>
+  <lastmod>2023-05-30T10:16:35+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v6i4p104</loc>
+  <lastmod>2023-05-30T10:16:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v6i1p101</loc>
+  <lastmod>2023-05-30T10:16:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v6i1p102</loc>
+  <lastmod>2023-05-30T10:16:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v6i1p103</loc>
+  <lastmod>2023-05-30T10:16:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v6i1p104</loc>
+  <lastmod>2023-05-30T10:16:39+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v6i1p105</loc>
+  <lastmod>2023-05-30T10:16:39+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v6i2p101</loc>
+  <lastmod>2023-05-30T10:16:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v6i2p102</loc>
+  <lastmod>2023-05-30T10:16:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v6i2p103</loc>
+  <lastmod>2023-05-30T10:16:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v6i2p105</loc>
+  <lastmod>2023-05-30T10:16:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v6i3p101</loc>
+  <lastmod>2023-05-30T10:16:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v6i3p102</loc>
+  <lastmod>2023-05-30T10:16:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v6i3p103</loc>
+  <lastmod>2023-05-30T10:16:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v6i3p104</loc>
+  <lastmod>2023-05-30T10:16:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v6i3p105</loc>
+  <lastmod>2023-05-30T10:16:46+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v5i6p101</loc>
+  <lastmod>2023-05-30T10:16:46+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v5i6p102</loc>
+  <lastmod>2023-05-30T10:16:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v5i6p103</loc>
+  <lastmod>2023-05-30T10:16:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v5i5p101</loc>
+  <lastmod>2023-05-30T10:16:49+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v5i5p102</loc>
+  <lastmod>2023-05-30T10:16:49+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v5i4p101</loc>
+  <lastmod>2023-05-30T10:16:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v5i4p102</loc>
+  <lastmod>2023-05-30T10:16:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v5i4p103</loc>
+  <lastmod>2023-05-30T10:16:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v5i4p104</loc>
+  <lastmod>2023-05-30T10:16:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v5i1p101</loc>
+  <lastmod>2023-05-30T10:16:53+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v5i1p102</loc>
+  <lastmod>2023-05-30T10:16:53+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v5i1p103</loc>
+  <lastmod>2023-05-30T10:16:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v5i1p104</loc>
+  <lastmod>2023-05-30T10:16:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v5i1p105</loc>
+  <lastmod>2023-05-30T10:16:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v5i1p106</loc>
+  <lastmod>2023-05-30T10:16:56+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v5i2p101</loc>
+  <lastmod>2023-05-30T10:16:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v5i2p102</loc>
+  <lastmod>2023-05-30T10:16:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v5i2p103</loc>
+  <lastmod>2023-05-30T10:16:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v5i2p104</loc>
+  <lastmod>2023-05-30T10:16:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v5i2p105</loc>
+  <lastmod>2023-05-30T10:17:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v5i3p101</loc>
+  <lastmod>2023-05-30T10:17:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v5i3p102</loc>
+  <lastmod>2023-05-30T10:17:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v5i3p103</loc>
+  <lastmod>2023-05-30T10:17:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/archives/ijres-v5i3p104</loc>
+  <lastmod>2023-05-30T10:17:03+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-4/Issue-6/IJRES-V4I6P101.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-4/Issue-6/IJRES-V4I6P102.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-4/Issue-6/IJRES-V4I6P103.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-4/Issue-6/IJRES-V4I6P104.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-4/Issue-6/IJRES-V4I6P105.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-4/Issue-6/IJRES-V4I6P106.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-4/Issue-6/IJRES-V4I6P107.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-4/Issue-6/IJRES-V4I6P108.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-4/Issue-6/IJRES-V4I6P109.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-4/Issue-5/IJRES-V4I5P102.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-4/Issue-5/IJRES-V4I5P103.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-4/Issue-5/IJRES-V4I5P104.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-4/Issue-4/IJRES-V4I4P101.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-4/Issue-4/IJRES-V4I4P102.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-4/Issue-4/IJRES-V4I4P103.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-4/Issue-4/IJRES-V4I4P104.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-4/Issue-4/IJRES-V4I4P105.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-4/Issue-4/IJRES-V4I4P106.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-4/Issue-4/IJRES-V4I4P107.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-4/Issue-1/IJRES-V4I1P101.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-4/Issue-1/IJRES-V4I1P103.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-4/Issue-1/IJRES-V4I1P104.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-4/Issue-1/IJRES-V4I1P105.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-4/Issue-1/IJRES-V4I1P106.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-4/Issue-1/IJRES-V4I1P107.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-4/Issue-1/IJRES-V4I1P108.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-4/Issue-1/IJRES-V4I1P109.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-4/Issue-1/IJRES-V4I1P110.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-4/Issue-1/IJRES-V4I1P111.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-4/Issue-1/IJRES-V4I1P112.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-4/Issue-2/IJRES-V4I2P101.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-4/Issue-2/IJRES-V4I2P102.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-4/Issue-2/IJRES-V4I2P103.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-4/Issue-2/IJRES-V4I2P104.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-4/Issue-2/IJRES-V4I2P105.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-4/Issue-2/IJRES-V4I2P106.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-4/Issue-2/IJRES-V4I2P107.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-4/Issue-2/IJRES-V4I2P108.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-4/Issue-2/IJRES-V4I2P109.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-4/Issue-3/IJRES-V4I3P101.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-4/Issue-3/IJRES-V4I3P102.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-4/Issue-3/IJRES-V4I3P104.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-4/Issue-3/IJRES-V4I3P105.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-4/Issue-3/IJRES-V4I3P106.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-3/Issue-6/IJRES-V3I6P101.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-3/Issue-6/IJRES-V3I6P102.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-3/Issue-6/IJRES-V3I6P103.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-3/Issue-6/IJRES-V3I6P104.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-3/Issue-6/IJRES-V3I6P105.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-3/Issue-6/IJRES-V3I6P106.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-3/Issue-5/IJRES-V3I5P101.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-3/Issue-5/IJRES-V3I5P102.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-3/Issue-5/IJRES-V3I5P103.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-3/Issue-5/IJRES-V3I5P104.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-3/Issue-4/IJRES-V3I4P101.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-3/Issue-1/IJRES-V3I1P101.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-3/Issue-1/IJRES-V3I1P102.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-3/Issue-1/IJRES-V3I1P103.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-3/Issue-1/IJRES-V3I1P104.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-3/Issue-1/IJRES-V3I1P105.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-3/Issue-1/IJRES-V3I1P106.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-3/Issue-1/IJRES-V3I1P107.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-3/Issue-2/IJRES-V3I2P101.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-3/Issue-2/IJRES-V3I2P102.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-3/Issue-2/IJRES-V3I2P103.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-3/Issue-2/IJRES-V3I2P104.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-3/Issue-2/IJRES-V3I2P105.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-3/Issue-2/IJRES-V3I2P106.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-3/Issue-2/IJRES-V3I2P107.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-3/Issue-3/IJRES-V3I3P101.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-3/Issue-3/IJRES-V3I3P102.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-3/Issue-3/IJRES-V3I3P103.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-3/Issue-3/IJRES-V3I3P104.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-3/Issue-3/IJRES-V3I3P105.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-3/Issue-3/IJRES-V3I3P106.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-2/Issue-6/IJRES-V2I6P101.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-2/Issue-6/IJRES-V2I6P102.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-2/Issue-6/IJRES-V2I6P103.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-2/Issue-6/IJRES-V2I6P104.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-2/Issue-6/IJRES-V2I6P105.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-2/Issue-6/IJRES-V2I6P106.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-2/Issue-5/IJRES-V2I5P101.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-2/Issue-5/IJRES-V2I5P102.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-2/Issue-5/IJRES-V2I5P103.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-2/Issue-5/IJRES-V2I5P104.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-2/Issue-5/IJRES-V2I5P105.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-2/Issue-5/IJRES-V2I5P106.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-2/Issue-5/IJRES-V2I5P107.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-2/Issue-4/IJRES-V2I4P101.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-2/Issue-4/IJRES-V2I4P102.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-2/Issue-4/IJRES-V2I4P103.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-2/Issue-4/IJRES-V2I4P104.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-2/Issue-4/IJRES-V2I4P105.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-2/Issue-4/IJRES-V2I4P106.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-2/Issue-1/IJRES-V2I1P101.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-2/Issue-1/IJRES-V2I1P102.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-2/Issue-1/IJRES-V2I1P103.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-2/Issue-2/IJRES-V2I2P101.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-2/Issue-2/IJRES-V2I2P102.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-2/Issue-3/IJRES-V2I3P101.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-2/Issue-3/IJRES-V2I3P102.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-2/Issue-3/IJRES-V2I3P103.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-2/Issue-3/IJRES-V2I3P104.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-1/Issue-6/IJRES-V1I6P101.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-1/Issue-5/IJRES-V1I5P101.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-1/Issue-5/IJRES-V1I5P102.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-1/Issue-5/IJRES-V1I5P103.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-1/Issue-5/IJRES-V1I5P104.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-1/Issue-5/IJRES-V1I5P105.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-1/Issue-4/IJRES-V1I4P101.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-1/Issue-4/IJRES-V1I4P102.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-1/Issue-4/IJRES-V1I4P103.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-1/Issue-4/IJRES-V1I4P104.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-1/Issue-4/IJRES-V1I4P105.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-1/Issue-1/IJRES-V1I1P101.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-1/Issue-1/IJRES-V1I1P102.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-1/Issue-1/IJRES-V1I1P103.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-1/Issue-1/IJRES-V1I1P104.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-1/Issue-1/IJRES-V1I1P105.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-1/Issue-2/IJRES-V1I2P101.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-1/Issue-2/IJRES-V1I2P102.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-1/Issue-2/IJRES-V1I2P103.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-1/Issue-2/IJRES-V1I2P104.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-1/Issue-2/IJRES-V1I2P105.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-1/Issue-3/IJRES-V1I3P101.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-1/Issue-3/IJRES-V1I3P102.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-1/Issue-3/IJRES-V1I3P103.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-1/Issue-3/IJRES-V1I3P104.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-1/Iissue-2/IJRES-V10I2P101.pdf</loc>
+  <lastmod>2023-03-31T07:33:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-1/Iissue-2/IJRES-V10I2P102.pdf</loc>
+  <lastmod>2023-04-03T07:21:56+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-1/Iissue-2/IJRES-V10I2P103.pdf</loc>
+  <lastmod>2023-04-10T13:15:27+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-1/Iissue-2/IJRES-V10I2P104.pdf</loc>
+  <lastmod>2023-05-02T09:31:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-1/Iissue-2/IJRES-V10I2P105.pdf</loc>
+  <lastmod>2023-05-02T11:29:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-1/Iissue-2/IJRES-V10I2P106.pdf</loc>
+  <lastmod>2023-05-22T09:25:46+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-1/Iissue-2/IJRES-V10I2P107.pdf</loc>
+  <lastmod>2023-05-04T12:59:09+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-1/Iissue-2/IJRES-V10I2P108.pdf</loc>
+  <lastmod>2023-05-04T12:59:13+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-9/Issue-6/IJRES-V9I6P101.pdf</loc>
+  <lastmod>2022-12-02T12:03:53+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-9/Issue-6/IJRES-V9I6P102.pdf</loc>
+  <lastmod>2022-12-10T14:53:46+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-9/Issue-6/IJRES-V9I6P103.pdf</loc>
+  <lastmod>2023-01-05T10:12:00+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-9/Issue-5/IJRES-V9I5P101.pdf</loc>
+  <lastmod>2022-12-02T05:03:48+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-9/Issue-4/IJRES-V9I4P101.pdf</loc>
+  <lastmod>2022-09-15T09:58:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-9/Issue-4/IJRES-V9I4P102.pdf</loc>
+  <lastmod>2022-09-15T09:58:57+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-9/Issue-3/IJRES-V9I3P101.pdf</loc>
+  <lastmod>2022-07-15T09:11:59+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-9/Issue-3/IJRES-V9I3P102.pdf</loc>
+  <lastmod>2022-07-15T10:03:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-9/Issue-2/IJRES-V9I2P101.pdf</loc>
+  <lastmod>2022-04-22T07:37:39+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-9/Issue-2/IJRES-V9I2P102.pdf</loc>
+  <lastmod>2022-05-23T08:27:33+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-9/Issue-1/IJRES-V9I1P101.pdf</loc>
+  <lastmod>2022-03-17T05:59:13+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-9/Issue-1/IJRES-V9I1P102.pdf</loc>
+  <lastmod>2022-03-17T05:59:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-9/Issue-1/IJRES-V9I1P103.pdf</loc>
+  <lastmod>2022-03-17T06:01:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-9/Issue-1/IJRES-V9I1P104.pdf</loc>
+  <lastmod>2022-03-23T06:33:43+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-9/Issue-1/IJRES-V9I1P105.pdf</loc>
+  <lastmod>2022-03-23T06:38:10+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-9/Issue-1/IJRES-V9I1P106.pdf</loc>
+  <lastmod>2022-04-21T13:15:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-8/Issue-6/IJRES-V8I6P101.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-8/Issue-5/IJRES-V8I5P101.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-8/Issue-5/IJRES-V8I5P102.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-8/Issue-5/IJRES-V8I5P103.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-8/Issue-5/IJRES-V8I5P104.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-8/Issue-5/IJRES-V8I5P105.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-8/Issue-4/IJRES-V8I4P101.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/year/volume-8-issue-4/IJRES-V8I4P102.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</Vd>
+  <p/Iority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-8/Issue-4/IJRES-V8I4P103.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-8/Issue-4/IJRES-V8I4P104.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-8/Issue-1/IJRES-V8I1P101.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-8/Issue-1/IJRES-V8I1P102.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-8/Issue-1/IJRES-V8I1P103.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-8/Issue-2/IJRES-V8I2P101.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-8/Issue-2/IJRES-V8I2P102.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-8/Issue-2/IJRES-V8I2P103.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-8/Issue-2/IJRES-V8I2P104.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-8/Issue-3/IJRES-V8I3P101.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-8/Issue-3/IJRES-V8I3P102.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-8/Issue-3/IJRES-V8I3P103.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-8/Issue-3/IJRES-V8I3P104.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-8/Issue-3/IJRES-V8I3P105.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-8/Issue-3/IJRES-V8I3P106.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-7/Issue-6/IJRES-V7I6P101.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-7/Issue-6/IJRES-V7I6P102.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-7/Issue-6/IJRES-V7I6P103.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-7/Issue-6/IJRES-V7I6P104.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-7/Issue-6/IJRES-V7I6P105.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-7/Issue-5/IJRES-V7I5P101.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-7/Issue-5/IJRES-V7I5P102.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-7/Issue-5/IJRES-V7I5P103.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-7/Issue-5/IJRES-V7I5P104.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-7/Issue-5/IJRES-V7I5P105.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-7/Issue-5/IJRES-V7I5P106.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-7/Issue-4/IJRES-V7I4P101.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-7/Issue-4/IJRES-V7I4P102.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-7/Issue-4/IJRES-V7I4P103.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-7/Issue-4/IJRES-V7I4P104.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-7/Issue-1/IJRES-V7I1P101.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-7/Issue-1/IJRES-V7I1P102.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-7/Issue-1/IJRES-V7I1P103.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-7/Issue-1/IJRES-V7I1P104.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-7/Issue-2/IJRES-V7I2P102.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-7/Issue-2/IJRES-V7I2P103.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-7/Issue-2/IJRES-V7I2P104.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-7/Issue-2/IJRES-V7I2P105.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-7/Issue-2/IJRES-V7I2P106.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-7/Issue-2/IJRES-V7I2P107.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+V  <loc>/Itps://ijresonline.com/assets/Volume-7/Issue-2/IJRES-V7I2P108.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-7/Issue-2/IJRES-V7I2P109.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-7/Issue-3/IJRES-V7I3P102.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-7/Issue-3/IJRES-V7I3P103.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-7/Issue-3/IJRES-V7I3P104.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-7/Issue-3/IJRES-V7I3P105.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-7/Issue-3/IJRES-V7I3P106.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-7/Issue-3/IJRES-V7I3P107.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-7/Issue-3/IJRES-V7I3P108.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-7/Issue-3/IJRES-V7I3P109.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-7/Issue-3/IJRES-V7I3P111.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-7/Issue-3/IJRES-V7I3P112.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-7/Issue-3/IJRES-V7I3P113.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-7/Issue-3/IJRES-V7I3P114.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-6/Issue-6/IJRES-V6I6P101.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-6/Issue-6/IJRES-V6I6P102.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-6/Issue-6/IJRES-V6I6P103.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-6/Issue-6/IJRES-V6I6P104.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-6/Issue-5/IJRES-V6I5P101.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-6/Issue-5/IJRES-V6I5P102.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-6/Issue-5/IJRES-V6I5P103.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-6/Issue-5/IJRES-V6I5P104.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-6/Issue-4/IJRES-V6I4P101.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-6/Issue-4/IJRES-V6I4P102.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-6/Issue-4/IJRES-V6I4P103.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-6/Issue-4/IJRES-V6I4P104.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-6/Issue-1/IJRES-V6I1P101.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-6/Issue-1/IJRES-V6I1P102.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-6/Issue-1/IJRES-V6I1P103.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-6/Issue-1/IJRES-V6I1P104.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-6/Issue-1/IJRES-V6I1P105.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-6/Issue-2/IJRES-V6I2P101.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-6/Issue-2/IJRES-V6I2P102.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-6/Issue-2/IJRES-V6I2P103.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-6/Issue-2/IJRES-V6I2P105.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-6/Issue-3/IJRES-V6I3P101.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-6/Issue-3/IJRES-V6I3P102.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-6/Issue-3/IJRES-V6I3P103.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-6/Issue-3/IJRES-V6I3P104.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-6/Issue-3/IJRES-V6I3P105.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-5/Issue-6/IJRES-V5I6P101.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-5/Issue-6/IJRES-V5I6P102.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-5/Issue-6/IJRES-V5I6P103.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-5/Issue-5/IJRES-V5I5P101.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-5/Issue-5/IJRES-V5I5P102.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-5/Issue-4/IJRES-V5I4P101.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-5/Issue-4/IJRES-V5I4P102.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-5/Issue-4/IJRES-V5I4P103.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-5/Issue-4/IJRES-V5I4P104.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-5/Issue-1/IJRES-V5I1P101.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-5/Issue-1/IJRES-V5I1P102.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-5/Issue-1/IJRES-V5I1P103.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-5/Issue-1/IJRES-V5I1P104.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-5/Issue-1/IJRES-V5I1P105.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-5/Issue-1/IJRES-V5I1P106.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-5/Issue-2/IJRES-V5I2P101.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-5/Issue-2/IJRES-V5I2P102.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-5/Issue-2/IJRES-V5I2P103.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-5/Issue-2/IJRES-V5I2P104.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-5/Issue-2/IJRES-V5I2P105.pdf</loc>
+  <lastmod>2022-01-30T16:03:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-5/Issue-3/IJRES-V5I3P101.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ijresonline.com/assets/Volume-5/Issue-3/IJRES-V5I3P102.pdf</loc>
+  <lastmod>2022-01-30T16:03:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+
+
+</urlset>

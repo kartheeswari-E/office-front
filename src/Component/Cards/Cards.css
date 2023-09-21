@@ -1,0 +1,12 @@
+p.Bgimg1.Bgimg1 {
+    min-height: 41px;
+    background: url('../Images/small11.jpeg') no-repeat center center / cover !important;
+    margin: 0 0 10px 0;
+  }
+  
+  p.Bgimg.Bgimg {
+    min-height: 41px;
+    background: url('../Images/smaal3.jpg') no-repeat center center / cover !important;
+    margin: 0 0 10px 0;
+  }
+  
